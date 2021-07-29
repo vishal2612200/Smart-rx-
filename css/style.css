@@ -1,0 +1,35 @@
+/* 
+	custom css file 
+
+*/
+
+hr {
+  	border-top: 1px dotted;	
+   }
+
+.header-hr{
+	margin-top:0px;
+	margin-bottom:3px;
+   }
+
+.right-border{ 
+	height:80%;
+	border-right: 1px dotted;  
+	}
+
+i.fa, i.fas {
+	font-weight: 900;
+	}
+
+.center-div {
+	border-right: 1px dotted;
+	border-left: 1px dotted;
+	}
+
+.bold{
+	font-weight: bold;
+	}
+
+.grey{
+	color: grey;
+	}

@@ -1,0 +1,129 @@
+{
+    "Heading": "MEDICATIONS",
+    "SubHeading": "Active Medications",
+    "SubHeadingIcon": "",
+    "PName": "Joyneel Acharya",
+    "Gender": "Male",
+    "Age": "16 May 1991",
+    "DateOfIssue": "30 Nov 2020",
+    "ReferredBy": "Self",
+    "ResultCount": "3",
+    "results": [
+      {
+        "RowHeading": "ibuprofen 600mg tab",
+        "ColumnData": [
+          {
+            "UpperHeading": ["Side A", "Side B"],
+            "UpperHeadingIcons": ["fa-user", "fa-car"],
+            "LowerHeading": "REASON FOR MEDICATION",
+            "LowerHeadingReason": "For treatment of lower back pain."
+          },
+          {
+              "Heading": "DIRECTIONS / NOTES",
+              "SubHeading": "1 tablet by mouth 4 times a day with food every 4 hours",
+              "Description": "",
+              "TimelineIcons": {
+					"First": ["fa-car"],
+					"Second": ["fa-car"],
+					"Third": ["fa-car"],
+					"Fourth": ["fa-car"]
+				},
+                "TimelineText": {
+					"First": "8:00AM",
+					"Second": "12:00PM",
+					"Third": "4:00PM",
+					"Fourth": "8:00PM"
+				},
+              "TimelineFrontIcon": "fa-sun-o",
+              "TimelineBackIcon": "fa-moon-o"
+          },
+          {
+            "UpperHeading": "POSSIBLE SIDE EFFECTS",
+            "UpperHeadingList": ["Headache", "Dizziness"],
+            "UpperHeadingIcons": ["fa-user", "fa-car"],
+            "LowerHeading": "GET MEDICAL HELP IF",
+            "LowerHeadingReason": "Experiencing chest pain, shortness of breath, and rapid weight gain."
+          }
+        ]
+            
+      },
+      {
+        "RowHeading": "insulin, glargine, human 100 unt/ml inj",
+        "ColumnData": [
+            {
+            "UpperHeading": ["APPEARANCE"],
+            "UpperHeadingIcons": [""],
+            "LowerHeading": "REASON FOR MEDICATION",
+            "LowerHeadingReason": "Reduce blood pressure."
+            },
+            {
+                "Heading": "DIRECTIONS / NOTES",
+                "SubHeading": "1 injection at bedtime",
+                "Description": "Inject 10 ml vial under the skin as directed for 28 days inject 25 units under the skin at bedtime do not mix with other insulins/discard open vials after 28 days.",
+                "TimelineIcons": {
+					"First": [],
+					"Second": [],
+					"Third": [],
+					"Fourth": ["fa-user", "fa-user", "fa-user"]
+				},
+                "TimelineText": {
+					"First": "",
+					"Second": "",
+					"Third": "",
+					"Fourth": "Bedtime"
+				},
+                "TimelineFrontIcon": "fa-sun-o",
+                "TimelineBackIcon": "fa-moon-o"
+            },
+            {
+            "UpperHeading": "POSSIBLE SIDE EFFECTS",
+            "UpperHeadingList": ["Headache", "Fatigue", "Nausea"],
+            "UpperHeadingIcons": ["fa-mail-reply", "fa-map-marker", "fa-pencil"],
+            "LowerHeading": "GET MEDICAL HELP IF",
+            "LowerHeadingReason": "Experiencing itching skin, wheezing, and fast heart rate."
+            }
+        ]
+                
+      },
+      {
+        "RowHeading": "terazosin hcl 2mg capsule",
+        "ColumnData": [
+            {
+            "UpperHeading":  ["Side A", "Side B"],
+            "UpperHeadingIcons": ["fa-medkit", "fa-medkit"],
+            "LowerHeading": "REASON FOR MEDICATION",
+            "LowerHeadingReason": "For treatment of symptoms of an enlarged prostate."
+            },
+            {
+                "Heading": "DIRECTIONS / NOTES",
+                "SubHeading": "3 capsules before bed",
+                "Description": "",
+                "TimelineIcons": {
+					"First": [],
+					"Second": [],
+					"Third": [],
+					"Fourth": ["fa-user", "fa-user", "fa-user"]
+				},
+                "TimelineText": {
+					"First": "",
+					"Second": "",
+					"Third": "",
+					"Fourth": "Bedtime"
+				},
+                "TimelineFrontIcon": "fa-sun-o",
+                "TimelineBackIcon": "fa-moon-o"
+            },
+            {
+            "UpperHeading": "POSSIBLE SIDE EFFECTS",
+            "UpperHeadingList": ["Dizziness", "Headache", "Constipation", "Loss of appetite", "Fatigue"],
+            "UpperHeadingIcons": ["fa-rocket", "fa-paperclip", "fa-file", "fa-cut", "fa-undo"],
+            "LowerHeading": "",
+            "LowerHeadingReason": ""
+            }
+        ]
+                    
+       }
+
+    ]
+}
+
